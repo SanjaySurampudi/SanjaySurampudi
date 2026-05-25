@@ -4,17 +4,17 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=180&section=header&text=Sanjay%20Siva%20Kumar&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=VLSI%20%7C%20Digital%20Design%20%7C%20RTL%20Engineer&descAlignY=60&descSize=18&animation=fadeIn" alt="header"/>
 
 <!-- ANIMATED TAGLINE -->
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<a href="https://github.com/SanjaySurampudi">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Aspiring+VLSI+%26+Digital+Design+Engineer;RTL+%E2%86%92+GDS+%7C+Verilog+%7C+FPGA;Building+Silicon+from+the+Ground+Up;125%2B+HDL+Bits+%7C+500%2B+Coding+Problems+Solved" alt="Typing SVG" />
 </a>
 
 <br/>
 
 <!-- SOCIAL LINKS / BADGES -->
-[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23A78BFA.svg?style=for-the-badge&logo=firefox-browser&logoColor=white)](YOUR_PORTFOLIO_URL)
-[![Email](https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SanjaySurampudi)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanjay-siva-kumar-surampudi-a4790831a?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23A78BFA.svg?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://sanjaysurampudi.github.io/new_portfolio/)
+[![Email](https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sanjaysanju2k6@gmail.com)
 [![Phone](https://img.shields.io/badge/+91%208367743496-%2325D366.svg?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+918367743496)
 
 </div>
