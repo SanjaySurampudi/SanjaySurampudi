@@ -82,7 +82,7 @@ I'm actively seeking **internship / project opportunities** in VLSI design, veri
 ┌─────────────────────────────────────────────────────────────────┐
 │  🏛️  B.Tech — Electronics & Communication Engineering           │
 │      Aditya University · Surampalem, Andhra Pradesh             │
-│      2024 – 2028  |  GPA: 8.62 / 10  ⭐                        │
+│      2024 – 2028  |  GPA: 8.62 / 10  ⭐                         │
 └─────────────────────────────────────────────────────────────────┘
 ```
 
@@ -124,7 +124,7 @@ I'm actively seeking **internship / project opportunities** in VLSI design, veri
 
 <br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=SanjaySurampudi&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa)](https://git.io/streak-stats)
 
 </div>
 
