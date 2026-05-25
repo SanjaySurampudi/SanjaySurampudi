@@ -67,12 +67,12 @@ I'm actively seeking **internship / project opportunities** in VLSI design, veri
 
 | # | Project | Description | Stack |
 |---|---------|-------------|-------|
-| 🔲 | **[RTL to GDS Automation Flow](YOUR_GITHUB_LINK)** | End-to-end flow from Verilog RTL to GDS2 layout file — automated on a local PC | `Verilog` `OpenLane` `Linux` |
-| 📡 | **[Long Distance Offline Comm via LoRa](YOUR_GITHUB_LINK)** | GPS + text messaging over LoRa radio — transmitter to receiver without internet | `Embedded C` `LoRa` `GPS` |
-| 🚗 | **[Bluetooth Controlled Car](YOUR_GITHUB_LINK)** | RC car controlled via mobile phone over Bluetooth | `Embedded C` `Bluetooth` |
-| 🏠 | **[Smart Home Automation](YOUR_GITHUB_LINK)** | Remote home appliance control via mobile app from anywhere | `IoT` `Embedded C` |
-| ❌⭕ | **[TIC TAC TOE Engine](YOUR_GITHUB_LINK)** | Classic game with game logic engine built in C++ | `C++` `OOP` |
-| 🖥️ | **[BCD to 7-Segment Display](YOUR_GITHUB_LINK)** | BCD decoder to 7-segment using Proteus simulation | `Verilog` `Proteus` |
+| 🔲 | **[RTL to GDS Automation Flow](https://github.com/SanjaySurampudi/My_Projects/tree/master/RTL%20to%20GDS%20Automation%20Flow)** | End-to-end flow from Verilog RTL to GDS2 layout file — automated on a local PC | `Verilog` `OpenLane` `Linux` |
+| 📡 | **[Long Distance Offline Comm via LoRa](https://github.com/SanjaySurampudi/My_Projects/tree/master/Long%20Distance%20Offline%20Communication%20using%20LoRa)** | GPS + text messaging over LoRa radio — transmitter to receiver without internet | `Embedded C` `LoRa` `GPS` |
+| 🚗 | **[Bluetooth Controlled Car](https://github.com/SanjaySurampudi/My_Projects/tree/master/Bluetooth%20Controlled%20Car)** | RC car controlled via mobile phone over Bluetooth | `Embedded C` `Bluetooth` |
+| 🏠 | **[Smart Home Automation](https://github.com/SanjaySurampudi/My_Projects/tree/master/Smart%20Home%20Automation)** | Remote home appliance control via mobile app from anywhere | `IoT` `Embedded C` |
+| ❌⭕ | **[TIC TAC TOE Engine](https://github.com/SanjaySurampudi/My_Projects/tree/master/TIC%20TAC%20TOE%20Engine)** | Classic game with game logic engine built in C++ | `C++` `OOP` |
+| 🖥️ | **[BCD to 7-Segment Display](https://github.com/SanjaySurampudi/My_Projects/tree/master/BCD%20to%207-Segment%20Display)** | BCD decoder to 7-segment using Proteus simulation | `Verilog` `Proteus` |
 
 ---
 
@@ -90,7 +90,7 @@ I'm actively seeking **internship / project opportunities** in VLSI design, veri
 
 ## 📜 Certifications
 
-> [📂 View All Certificates](YOUR_CERTIFICATES_LINK)
+> [📂 View All Certificates](https://github.com/SanjaySurampudi/My_Projects/tree/master/Certificates)
 
 - 🏅 **Semiconductor 101** v1.0
 - 🏅 **Digital IC Design Fundamentals** v2.0
@@ -106,8 +106,8 @@ I'm actively seeking **internship / project opportunities** in VLSI design, veri
 
 | 🥇 Category | 🏅 Achievement |
 |------------|----------------|
-| ⚙️ HDL Design | **125+ Problems solved** on [HDL Bits](https://hdlbits.01xz.net) |
-| 💻 Competitive Coding | **500+ Problems solved** on [LeetCode](https://leetcode.com) & [CodeChef](https://codechef.com) |
+| ⚙️ HDL Design | **125+ Problems solved** on [HDL Bits](https://hdlbits.01xz.net/wiki/Special:VlgStats/1A31EA6C8766B0FD) |
+| 💻 Competitive Coding | **500+ Problems solved** on [LeetCode](https://leetcode.com/u/111____HACKER/) & [CodeChef](https://www.codechef.com/users/ssk_111) |
 | 🥋 Taekwondo | **Gold Medal** — State Championship |
 | 🥋 Taekwondo | **Silver Medal** — National Championship |
 
