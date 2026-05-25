@@ -152,4 +152,6 @@ I'm actively seeking **internship / project opportunities** in VLSI design, veri
 
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=SanjaySurampudi.SanjaySurampudi&color=a78bfa)
 
+![](https://komarev.com)
+
 </div>
