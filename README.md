@@ -136,7 +136,7 @@ I'm actively seeking **internship / project opportunities** in VLSI design, veri
 
 ### Open to Internships · Research Collaborations · VLSI Roles
 
-[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/YOUR_LINKEDIN](https://github.com/SanjaySurampudi))
+[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)]([[https://linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/sanjay-siva-kumar-surampudi-a4790831a?utm_source=share_via&utm_content=profile&utm_medium=member_android)](https://github.com/SanjaySurampudi))
 [![Email](https://img.shields.io/badge/Send%20an%20Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sanjaysanju2k6@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Visit%20Portfolio-%23A78BFA.svg?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://sanjaysurampudi.github.io/new_portfolio/)
 
