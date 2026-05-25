@@ -119,8 +119,8 @@ I'm actively seeking **internship / project opportunities** in VLSI design, veri
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=SanjaySurampudi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanjaySurampudi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" />
 
 <br/>
 
@@ -136,9 +136,9 @@ I'm actively seeking **internship / project opportunities** in VLSI design, veri
 
 ### Open to Internships · Research Collaborations · VLSI Roles
 
-[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Email](https://img.shields.io/badge/Send%20an%20Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
-[![Portfolio](https://img.shields.io/badge/Visit%20Portfolio-%23A78BFA.svg?style=for-the-badge&logo=firefox-browser&logoColor=white)](YOUR_PORTFOLIO_URL)
+[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/YOUR_LINKEDIN](https://github.com/SanjaySurampudi))
+[![Email](https://img.shields.io/badge/Send%20an%20Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sanjaysanju2k6@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Visit%20Portfolio-%23A78BFA.svg?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://sanjaysurampudi.github.io/new_portfolio/)
 
 </div>
 
@@ -150,6 +150,6 @@ I'm actively seeking **internship / project opportunities** in VLSI design, veri
 
 *"Designed with passion. Built with precision. Verified with rigor."*
 
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=YOUR_GITHUB_USERNAME.YOUR_GITHUB_USERNAME&color=a78bfa)
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=SanjaySurampudi.SanjaySurampudi&color=a78bfa)
 
 </div>
