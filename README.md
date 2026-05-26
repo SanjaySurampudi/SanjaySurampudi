@@ -152,4 +152,4 @@ I'm actively seeking **internship / project opportunities** in VLSI design, veri
 
 </div>
 
-<img src="https://komarev.com" alt="Sanjay Views Counter" />
+<img src="https://komarev.com/ghpvc/?username=SanjaySurampudi&label=Profile+Views&color=a78bfa&style=for-the-badge" alt="Profile Views" />
