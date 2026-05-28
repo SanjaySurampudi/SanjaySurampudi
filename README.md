@@ -21,13 +21,52 @@
 
 ---
 
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,50:302b63,100:24243e&height=4&section=header" width="100%"/>
+
 ## 👤 About Me
 
-> *"Silicon dreams begin with a single gate."*
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=B.Tech+ECE+%40+Aditya+University+%7C+GPA+8.62;Passionate+about+RTL+%E2%86%92+GDS+%7C+VLSI+%7C+FPGA;125%2B+HDL+Bits+%7C+500%2B+Coding+Problems+Solved;National+Silver+Medalist+%F0%9F%A5%88+in+Taekwondo;Open+to+VLSI+%7C+Verification+%7C+SoC+Internships" alt="About Me Typing" />
 
-I'm a **B.Tech Electronics & Communication Engineering** student at Aditya University (2024–2028), passionate about the full journey from RTL design to silicon. I combine a sharp debugging mindset with hands-on experience in digital design, FPGA tooling, and embedded systems. Outside the lab, I'm a **National Silver Medalist in Taekwondo** — discipline and precision follow me everywhere.
+</div>
 
-I'm actively seeking **internship / project opportunities** in VLSI design, verification, and semiconductor engineering where I can turn academic foundations into real silicon impact.
+<br/>
+
+```txt
+╔══════════════════════════════════════════════════════════════════╗
+║                                                                  ║
+║   "Silicon dreams begin with a single gate."                     ║
+║                                                                  ║
+╚══════════════════════════════════════════════════════════════════╝
+```
+
+I'm **Sanjay Siva Kumar**, a passionate **Electronics & Communication Engineering** student at Aditya University (2024–2028), on a mission to master the full silicon stack — from writing clean RTL in Verilog to watching it tape out as GDS.
+
+I bring a sharp **debugging mindset**, hands-on experience with **FPGA tooling**, **embedded systems**, and real-world **IoT engineering**. Beyond the lab, discipline is part of my DNA — I'm a **National Silver Medalist in Taekwondo 🥈**, where precision and persistence are everything.
+
+<div align="center">
+
+| 🔬 What I Do | ⚡ How I Think | 🎯 Where I'm Headed |
+|:---:|:---:|:---:|
+| RTL Design → GDS Flow | Debug first, ask questions later | VLSI / SoC Engineering |
+| FPGA Prototyping | Every gate has a purpose | Semiconductor Industry |
+| IoT & Embedded Systems | Silicon is the canvas | Chip Design & Verification |
+
+</div>
+
+<br/>
+
+<div align="center">
+
+![HDL Bits](https://img.shields.io/badge/HDL%20Bits-125%2B%20Solved-%23A78BFA?style=for-the-badge&logo=v&logoColor=white)
+![LeetCode](https://img.shields.io/badge/LeetCode-500%2B%20Problems-%23FFA116?style=for-the-badge&logo=leetcode&logoColor=white)
+![GPA](https://img.shields.io/badge/GPA-8.62%20%2F%2010-%234CAF50?style=for-the-badge&logo=academia&logoColor=white)
+![Taekwondo](https://img.shields.io/badge/Taekwondo-National%20Silver%20%F0%9F%A5%88-%230A66C2?style=for-the-badge)
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,50:302b63,100:24243e&height=4&section=footer" width="100%"/>
 
 ---
 
