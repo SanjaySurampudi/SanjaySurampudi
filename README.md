@@ -61,6 +61,23 @@ I'm actively seeking **internship / project opportunities** in VLSI design, veri
 
 ---
 
+## 💼 Internship Experience
+
+```
+┌─────────────────────────────────────────────────────────────────┐
+│  🏢  IoT Engineer Intern — Eduexpose                            │
+│      4th May 2026 – 26th June 2026                              │
+│      Tech Stack: IoT · Embedded C · Arduino IDE                 │
+├─────────────────────────────────────────────────────────────────┤
+│  • Developed automation systems leveraging IoT protocols and    │
+│    embedded C programming on Arduino-based platforms            │
+│  • Implemented wireless communication modules for real-time     │
+│    device-to-device data transfer and remote control            │
+└─────────────────────────────────────────────────────────────────┘
+```
+
+---
+
 ## 🚀 Projects
 
 > Each project is a step from concept → schematic → silicon (or code).
@@ -119,9 +136,6 @@ I'm actively seeking **internship / project opportunities** in VLSI design, veri
 
 <div align="center">
 
-<!--<img height="160" src="https://github-readme-stats.vercel.app/api?username=SanjaySurampudi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanjaySurampudi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" />-->
-
 <br/>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=SanjaySurampudi&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa)](https://git.io/streak-stats)
@@ -152,4 +166,4 @@ I'm actively seeking **internship / project opportunities** in VLSI design, veri
 
 </div>
 
-<img src="https://komarev.com/ghpvc/?username=SanjaySurampudi&label=Profile+Views&color=a78bfa&style=for-the-badge" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=SanjaySurampudi"/>
