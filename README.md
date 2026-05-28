@@ -288,31 +288,6 @@ OpenLane / RTL→GDS     █████████████████░�
 
 </div>
 
-> 💡 **To enable the snake:** Go to your profile repo → Actions → enable **"Generate Snake"** workflow, or add this GitHub Action:
-> ```yaml
-> # .github/workflows/snake.yml
-> name: Generate Snake
-> on:
->   schedule: [{cron: "0 0 * * *"}]
->   workflow_dispatch:
-> jobs:
->   snake:
->     runs-on: ubuntu-latest
->     steps:
->       - uses: Platane/snk@v3
->         with:
->           github_user_name: SanjaySurampudi
->           outputs: |
->             dist/github-contribution-grid-snake.svg
->             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
->       - uses: crazy-max/ghaction-github-pages@v3
->         with:
->           target_branch: output
->           build_dir: dist
->         env:
->           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-> ```
-
 ---
 
 <!-- CONNECT -->
