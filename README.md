@@ -1,4 +1,5 @@
 <div align="center">
+[![About Me](https://img.shields.io/badge/✨%20View%20Animated%20Profile-%23A78BFA?style=for-the-badge)](https://sanjaysurampudi.github.io/about-/)
 
 <!-- HEADER -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,30:1a1040,60:302b63,100:24243e&height=220&section=header&text=Sanjay%20Siva%20Kumar&fontSize=48&fontColor=ffffff&fontAlignY=40&desc=⚡%20VLSI%20Engineer%20%7C%20RTL%20%7C%20FPGA%20%7C%20IoT%20⚡&descAlignY=62&descSize=16&animation=fadeIn" />
@@ -320,4 +321,3 @@ OpenLane / RTL→GDS     █████████████████░�
 
 </div>
 
-[![About Me](https://img.shields.io/badge/✨%20View%20Animated%20Profile-%23A78BFA?style=for-the-badge)](https://sanjaysurampudi.github.io/about-/)
