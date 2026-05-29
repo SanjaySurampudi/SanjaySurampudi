@@ -36,38 +36,41 @@
 
 <img align="right" width="380" src="https://github-readme-stats.vercel.app/api?username=SanjaySurampudi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=5DCAA5&text_color=c9d1d9&border_radius=12"/>
 
+<table>
+<tr>
+<td valign="top" width="55%">
 ```javascript
 const sanjay = {
-  name     : "Sanjay Siva Kumar",
-  degree   : "B.Tech ECE @ Aditya University",
-  batch    : "2024 – 2028  |  GPA: 8.62 ⭐",
-  focus    : ["VLSI Design", "RTL → GDS", "FPGA", "IoT"],
-  intern   : "IoT Engineer @ Eduexpose (2026) 🔌",
-  sport    : "Taekwondo 🥈 National Silver Medalist",
-  quote    : "Silicon dreams begin with a single gate.",
-  status   : "🟢 Open to VLSI / SoC Internships",
+  name   : "Sanjay Siva Kumar",
+  degree : "B.Tech ECE @ Aditya University",
+  batch  : "2024 – 2028  |  GPA: 8.62",
+  focus  : ["VLSI", "RTL→GDS", "FPGA", "IoT"],
+  intern : "IoT Engineer @ Eduexpose (2026)",
+  sport  : "Taekwondo - National Silver Medalist",
+  quote  : "Silicon dreams begin with a single gate.",
+  status : "Open to VLSI / SoC Internships",
 };
-` ` `
-
-&nbsp;
-
-🔭 &nbsp;Currently mastering **RTL → GDS flows** with OpenLane
-
-🌱 &nbsp;Exploring **Digital IC Verification & SoC Design**
-
-💼 &nbsp;Interned as **IoT Engineer @ Eduexpose** (May–Jun 2026)
-
-🥋 &nbsp;**National Silver Medalist** in Taekwondo — discipline runs deep
-
-💬 &nbsp;Ask me about **Verilog, FPGA, OpenLane, Embedded C**
-
-📫 &nbsp;Reach me at **sanjaysanju2k6@gmail.com**
-
-
 ```
-
----
-
+ 
+</td>
+<td valign="top" width="45%">
+🔭 Currently mastering **RTL → GDS** with OpenLane
+ 
+🌱 Exploring **Digital IC Verification & SoC Design**
+ 
+💼 Interned as **IoT Engineer @ Eduexpose** (May–Jun 2026)
+ 
+🥋 **National Silver Medalist** in Taekwondo
+ 
+💬 Ask me about **Verilog, FPGA, OpenLane, Embedded C**
+ 
+📫 **sanjaysanju2k6@gmail.com**
+ 
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SanjaySurampudi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=5DCAA5&text_color=c9d1d9&border_radius=12)](https://github.com/SanjaySurampudi)
+ 
+</td>
+</tr>
+</table>
 
 <!-- STATS ROW -->
 <div align="center">
