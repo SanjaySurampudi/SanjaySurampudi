@@ -7,7 +7,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,30:1a1040,60:302b63,100:24243e&height=220&section=header&text=Sanjay%20Siva%20Kumar&fontSize=48&fontColor=ffffff&fontAlignY=40&desc=⚡%20VLSI%20Engineer%20%7C%20RTL%20%7C%20FPGA%20%7C%20IoT%20⚡&descAlignY=62&descSize=16&animation=fadeIn" />
 
 <!-- TYPING ANIMATION -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1200&color=A78BFA&center=true&vCenter=true&width=800&lines=🔬+RTL+%E2%86%92+GDS+%7C+From+Code+to+Silicon;⚡+125%2B+HDL+Bits+%7C+500%2B+Coding+Problems;🔌+IoT+Engineer+Intern+%40+Eduexpose+2026;🥈+National+Taekwondo+Silver+Medalist;🎯+Aspiring+VLSI+%2F+SoC+Design+Engineer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1200&color=A78BFA&center=true&vCenter=true&width=800&lines=RTL+%E2%86%92+GDS+%7C+From+Code+to+Silicon;125%2B+HDL+Bits+%7C+500%2B+Coding+Problems;IoT+Engineer+Intern+%40+Eduexpose+2026;National+Taekwondo+Silver+Medalist+%F0%9F%A5%88;Aspiring+VLSI+%2F+SoC+Design+Engineer" alt="Typing SVG" />
 
 <br/>
 
@@ -139,9 +139,9 @@ OpenLane / RTL→GDS     █████████████████░�
 ║  🛠️  IoT  ·  Embedded C  ·  Arduino IDE                              ║
 ╠══════════════════════════════════════════════════════════════════════╣
 ║  ▸ Built automation systems using IoT protocols & Embedded C         ║
-║    on Arduino-based hardware platforms                                ║
+║    on Arduino-based hardware platforms                               ║
 ║  ▸ Implemented wireless communication modules for real-time          ║
-║    device-to-device data transfer and remote control                  ║
+║    device-to-device data transfer and remote control                 ║
 ╚══════════════════════════════════════════════════════════════════════╝
 ```
 
@@ -179,10 +179,10 @@ OpenLane / RTL→GDS     █████████████████░�
   │                      │                       │                      │
   ▼                      ▼                       ▼                      ▼
 ┌──────────┐      ┌─────────────┐      ┌──────────────────┐    ┌──────────────┐
-│ B.Tech   │      │  6 Projects  │      │ IoT Intern       │    │  🎯 Target   │
-│ ECE      │ ───▶ │  RTL→GDS    │ ───▶ │ @ Eduexpose      │───▶│  VLSI / SoC  │
-│ Started  │      │  125+ HDLBits│      │ Taekwondo 🥈     │    │  Engineer    │
-│ GPA 8.62 │      │  500+ Coding │      │ 500+ Problems    │    │  Dream Role  │
+│ B.Tech   │      │  6 Projects │      │ IoT Intern       │    │  🎯 Target  │
+│ ECE      │ ───▶ │  RTL→GDS    │ ───▶ │ @ Eduexpose     │──▶│  VLSI / SoC   │
+│ Started  │      │  125+ HDLBits│      │ Taekwondo 🥈    │    │  Engineer   │
+│ GPA 8.62 │      │  500+ Coding │      │ 500+ Problems   │    │  Dream Role   │
 └──────────┘      └─────────────┘      └──────────────────┘    └──────────────┘
    🟣 Purple           🟢 Teal               🟠 Amber                🔵 Blue
 ```
@@ -198,7 +198,7 @@ OpenLane / RTL→GDS     █████████████████░�
 
 ```
   ┌──────────────────────────────────────────────────────────────────┐
-  │  🏛️   B.Tech — Electronics & Communication Engineering           │
+  │  🏛️   B.Tech — Electronics & Communication Engineering          │
   │        Aditya University · Surampalem, Andhra Pradesh            │
   │        2024 – 2028  ·  CGPA: 8.62 / 10.0  ⭐                    │
   └──────────────────────────────────────────────────────────────────┘
