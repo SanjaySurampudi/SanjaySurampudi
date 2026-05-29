@@ -31,7 +31,7 @@
 <!-- ABOUT ME -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:302b63,100:24243e&height=3&section=header" width="100%"/>
 
-## <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=99999&color=A78BFA&width=180&lines=👤+About+Me" alt="About Me"/>
+ <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=99999&color=A78BFA&width=180&lines=👤+About+Me" alt="About Me"/>
 
 <img align="right" width="380" src="https://github-readme-stats.vercel.app/api?username=SanjaySurampudi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=5DCAA5&text_color=c9d1d9&border_radius=12"/>
 
