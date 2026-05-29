@@ -50,14 +50,14 @@ const sanjay = {
 ```
 
 <br/>
-
+```javascript
 🔭 &nbsp;Currently mastering **RTL → GDS flows** with OpenLane  
 🌱 &nbsp;Exploring **Digital IC Verification & SoC Design**  
 💼 &nbsp;Interned as **IoT Engineer @ Eduexpose** (May–Jun 2026)  
 🥋 &nbsp;**National Silver Medalist** in Taekwondo — discipline runs deep  
 💬 &nbsp;Ask me about **Verilog, FPGA, OpenLane, Embedded C**  
 📫 &nbsp;Reach me at **sanjaysanju2k6@gmail.com**
-
+```
 <br clear="right"/>
 
 ---
