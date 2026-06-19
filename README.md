@@ -51,7 +51,7 @@
 
 💬 Ask me about **Verilog, FPGA, OpenLane, Embedded C**
 
-📫 **sanjaysanju2k6@gmail.com**
+📫 **sanjaysurampudi03gmail.com**
 
 </td>
 </tr>
