@@ -9,7 +9,7 @@
 <a href="https://github.com/SanjaySurampudi"><img src="https://img.shields.io/badge/GitHub-SanjaySurampudi-%23A78BFA?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/sanjay-siva-kumar-surampudi-a4790831a"><img src="https://img.shields.io/badge/LinkedIn-Connect-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://sanjaysurampudi.github.io/new_portfolio/"><img src="https://img.shields.io/badge/Portfolio-Visit-%23A78BFA?style=for-the-badge&logo=firefox-browser&logoColor=white"/></a>
-<a href="mailto:sanjaysanju2k6@gmail.com"><img src="https://img.shields.io/badge/Email-Hire%20Me-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="mailto:sanjaysurampudi03@gmail.com"><img src="https://img.shields.io/badge/Email-Hire%20Me-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 <br/><br/>
 
